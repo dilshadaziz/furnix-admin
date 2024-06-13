@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499630784485",
+    "project_id": "furnix-admin-d6849",
+    "storage_bucket": "furnix-admin-d6849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499630784485:android:c2b25cda3d486b53a1f90c",
+        "android_client_info": {
+          "package_name": "com.example.furnix_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVNcVvTUBMMyM3PsY_Z14PUvc5TIDc4dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
