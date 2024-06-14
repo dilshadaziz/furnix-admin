@@ -22,7 +22,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final sideMenuBloc = context.read<SideMenuBarBloc>();
-    int currentIndex = 2;
+    int currentIndex = 0;
     final double screenWidth = getWidth(context);
     final double screenHeight = getHeight(context);
     final List<String> sideBarItems = [
